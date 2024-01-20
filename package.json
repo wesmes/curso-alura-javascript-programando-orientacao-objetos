@@ -1,0 +1,20 @@
+{
+  "name": "bytebank",
+  "version": "1.0.0",
+  "description": "Projeto do bytebank para seus clientes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesmes/curso-alura-javascript-programando-orientacao-objetos.git"
+  },
+  "author": "Weslley Gomes da Cruz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wesmes/curso-alura-javascript-programando-orientacao-objetos/issues"
+  },
+  "homepage": "https://github.com/wesmes/curso-alura-javascript-programando-orientacao-objetos#readme",
+  "type": "module"
+}

@@ -19,3 +19,6 @@ conta2.agencia = 102;
 conta2.cliente = cliente2;
 
 contaCorrenteRicardo.transferir(200, conta2);
+
+console.log(contaCorrenteRicardo);
+console.log(conta2);

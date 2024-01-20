@@ -19,6 +19,7 @@ export class ContaCorrente {
     }
 
     transferir(valor, conta) {
+        conta.cidade = "São Paulo";
         const valorSacado = this.sacar(valor);
         conta.depositar(valorSacado);
         console.log(`Transferindo R$${valor} da conta ${this.agencia} para a conta ${conta.agencia}`);

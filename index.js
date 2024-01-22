@@ -17,3 +17,4 @@ contaCorrenteRicardo.transferir(200, conta2);
 console.log(contaCorrenteRicardo);
 console.log(conta2);
 console.log(conta2.saldo);
+console.log(ContaCorrente.numeroDeContas);
